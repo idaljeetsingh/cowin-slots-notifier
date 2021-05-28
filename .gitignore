@@ -1,0 +1,16 @@
+**/venv
+**/.idea
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+db.sqlite3-journal
+/site
+*.iws
+*.iml
+modules.xml
+.idea/misc.xml
+*.ipr
